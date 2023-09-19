@@ -1,0 +1,82 @@
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\fonts\MarkerFelt-16.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\fonts\MarkerFelt-18.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\fonts\MarkerFelt-22.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\fonts\MarkerFelt-64.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ProyectoNaves.exe
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (1).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (2).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (3).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Fondo\Planeta (1).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Fondo\Planeta (2).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Fondo\Space Background.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_1.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_2.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_3.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_asset.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_exp1.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_exp2.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_exp3.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Disparo\shot3_exp4.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_000.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_004.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_005.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_007.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_009.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_012.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_013.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_015.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_018.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_019.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Muerte\Ship3_Explosion_021.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Ship3.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Turbo\exhaust1.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Turbo\exhaust2.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Turbo\exhaust3.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Turbo\exhaust4.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Vuelo\exhaust1.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Vuelo\exhaust2.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Vuelo\exhaust3.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Nave\Vuelo\exhaust4.xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ProyectoNaves.deps.json
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ProyectoNaves.runtimeconfig.json
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ProyectoNaves.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ProyectoNaves.pdb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\BitMiracle.LibTiff.NET.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Box2D.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Cocos2D.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.csproj.AssemblyReference.cache
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.AssemblyInfoInputs.cache
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.AssemblyInfo.cs
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.csproj.CoreCompileInputs.cache
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.csproj.CopyComplete
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\refint\ProyectoNaves.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.pdb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ProyectoNaves.genruntimeconfig.cache
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\obj\Release\net6.0-windows\ref\ProyectoNaves.dll
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (4).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (5).xnb
+C:\Users\Facundete\source\repos\ProyectoNaves\ProyectoNaves\bin\Release\net6.0-windows\Content\img\Asteroide\Asteroide (6).xnb
